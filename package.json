@@ -11,5 +11,9 @@
   "bugs": {
     "url": "https://github.com/hakovala/gulp-submodule/issues"
   },
+  "dependencies": {
+    "babel-core": "^6.4.0",
+    "babel-register": "^6.4.3"
+  },
   "license": "MIT"
 }
