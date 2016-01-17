@@ -3,6 +3,8 @@
 var path = require('path');
 var fs = require('fs');
 
+require("babel-register");
+
 module.exports = function (gulp, sep) {
 	sep = sep || ':';
 
